@@ -20,5 +20,5 @@
 </div>
 <h3 align="left">🔥My Stats :</h3>
 <div align="center">
-  https://github-readme-stats.vercel.app/api?username=hellopravin&theme=monokai&show_icons=true&hide_border=false&count_private=true
+  [![hellopravin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hellopravin&theme=monokai&show_icons=true&hide_border=false&count_private=true)](https://github.com/hellopravin)
 </div>

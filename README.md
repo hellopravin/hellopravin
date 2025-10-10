@@ -1,12 +1,12 @@
 <h1 align="center">👋Hi There, Pravin's Here!</h1>
 <h3 align="center">**👩‍💻About Me**</h3>
 <p align="left">
-•🔭I’m a BCA Graduate seeking Job Opportunities.</br>
+•🔭I’m currently persuing MCA from MMMUT.</br>
 •🌱I’m currently learning **React**😛.</br>
 •❓Ask me KuchBhi...</br>
 •⚡Fun fact: There isn't anything funny about me.</br>
-•😄 Pronouns:**NahiBataunga!**</br>
-•📫 You can reach me by a **🚁Helikopter!**
+•😄 Pronouns:**Bunnu!**</br>
+•🏡 You can reach me by a **🚁Helikopter!**
 </p>
 <h3 align="center">**🛠 Language & Tools**</h3>
 <div align="center">

@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi There, Pravin's Here!</h1>
+<h1 align="center">👋Hi There, I am Pravin!</h1>
 <h3 align="center">👩‍💻About Me</h3>
 <p align="left">
 •🔭I’m currently persuing MCA from MMMUT.</br>
@@ -18,7 +18,7 @@
 </p>
 </div>
 </div>
-<h3 align="left">🔥My Stats :</h3>
+<h3 align="center">🔥My Stats :</h3>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=hellopravin&theme=monokai&border_radius=32" alt="GitHub Streak" />

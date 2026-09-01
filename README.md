@@ -19,6 +19,6 @@
 </div>
 </div>
 <h3 align="left">🔥My Stats :</h3>
-<p align="center">
+<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=hellopravin&theme=monokai&border_radius=32)](https://git.io/streak-stats)
-</p>
+</div>

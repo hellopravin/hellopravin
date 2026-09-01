@@ -20,5 +20,7 @@
 </div>
 <h3 align="left">🔥My Stats :</h3>
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=hellopravin&theme=monokai&border_radius=32)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hellopravin&theme=monokai&border_radius=32" alt="GitHub Streak" />
+  </a>
 </div>

@@ -15,7 +15,5 @@
 
 <h3>🔥 My Stats :</h3>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hellopravin&theme=monokai&border_radius=32" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=hellopravin&theme=monokai&border_radius=32" alt="GitHub Streak" />
 </p>

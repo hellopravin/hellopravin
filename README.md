@@ -3,7 +3,7 @@
 ### 👩‍💻 About Me :
 * 💻 Passionate about Web Development & AI.
 * 🎨 Crafting responsive, user-centric interfaces with Tailwind CSS.
-* 🗄️ Working with MySQL & Databases for scalable backends.
+* 🗄️ Working with MySQL Database for scalable backends.
 * 💡 Love turning complex ideas into clean, functional code.
 * 🎯 Focused on writing maintainable, well-structured programs.
 * 📩 Always up for tech discussions—feel free to reach out!
